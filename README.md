@@ -69,10 +69,10 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🛡️ 1. Admin Control Center
 *The nerve center for system-wide management and verification.*
 <p align="center">
- <img src="Photes/admin 2.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/admin 3.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/admin.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/admin 1.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+ <img src="Photes/admin 2.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/admin 3.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/admin.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/admin 1.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
  </p>
 
 ---
@@ -80,9 +80,9 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🔑 2. Secure Access Flow
 *A seamless, secure authentication experience for all users.*
 <p align="center">
-  <img src="Photes/loging.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/register.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/forget passward.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/loging.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/register.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/forget passward.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
 </p>
 
 ---
@@ -90,8 +90,8 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🏠 3. Intelligent Dashboard
 *Dynamic home screen featuring weather-adaptive UI and daily care tasks.*
 <p align="center">
-  <img src="Photes/home_normal.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/home_rain.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/home_normal.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/home_rain.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
 </p>
 
 ---
@@ -99,7 +99,7 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 📊 4. Seller Performance Engine
 *Empowering local businesses with sales tracking and inventory management.*
 <p align="center">
-  <img src="Photes/seller dashbord.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd;">
+  <img src="Photes/seller dashbord.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd;">
 </p>
 
 ---
@@ -107,8 +107,8 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 👨‍🌾 5. Global Community Hub
 *Connect with experts, share your journey, and grow together.*
 <p align="center">
-  <img src="Photes/community_post.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/community_comment.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/community_post.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/community_comment.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
 </p>
 
 ---
@@ -116,7 +116,7 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🛒 6. Plantive Marketplace
 *A secure, peer-to-peer e-commerce platform for rare and local plants.*
 <p align="center">
-  <img src="Photes/Buy sell.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd;">
+  <img src="Photes/Buy sell.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd;">
 </p>
 
 ---
@@ -124,9 +124,9 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🌱 7. Garden & Care Records
 *Visualize your growth and maintain precise health logs for your collection.*
 <p align="center">
-  <img src="Photes/gerden.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/gerden bar.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/care history.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/gerden.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/gerden bar.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/care history.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
 </p>
 
 ---
@@ -134,7 +134,7 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🤖 8. AI Plant Assistant
 *Advanced disease recognition and smart care advice powered by Gemini.*
 <p align="center">
-  <img src="Photes/Ai.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd;">
+  <img src="Photes/Ai.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd;">
 </p>
 
 ---
@@ -142,7 +142,18 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 📜 9. Order History
 *Full transparency and tracking for every transaction and care activity.*
 <p align="center">
-  <img src="Photes/Buy history.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd;">
+  <img src="Photes/Buy history.jpg" width="200" style="border-radius: 12px; border: 1px solid #ddd;">
+</p>
+
+---
+
+### 🗄️ 10. Database Section
+*A robust Firebase Realtime Database and Firestore structure for managing all application data.*
+<p align="center">
+  <img src="Photes/F 1.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/F 2.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/F 3.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/F 4.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
 </p>
 
 ---
