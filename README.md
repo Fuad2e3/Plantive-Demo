@@ -150,10 +150,11 @@ Admin/app/src/main/java/com/plantive/softece/admin/
 ### 🗄️ 10. Database Section
 *A robust Firebase Realtime Database and Firestore structure for managing all application data.*
 <p align="center">
-  <img src="Photes/F 1.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/F 2.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/F 3.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
-  <img src="Photes/F 4.png" width="200" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/F 1.png" width="400" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/F 2.png" width="400" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <br>
+  <img src="Photes/F 3.png" width="400" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photes/F 4.png" width="400" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
 </p>
 
 ---
