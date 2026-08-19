@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Team Softece**  
+**Developed with ❤️ by Fuad**  
 *Integrated Design Project | Green University of Bangladesh*
 
 </div>
